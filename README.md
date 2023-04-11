@@ -10,5 +10,5 @@
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 <a href="https://github.com/vikuli/">
-  <img src="https://img.shields.io/github/watchers/vikuli/vikuli?color=6cc644&label=Profile%20views&logo=github&logoColor=white" alt="Github Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=vikuli&style=flat-square&color=blue" alt="Github Badge"/>
 </a>
