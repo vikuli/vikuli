@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc0NTE1ODE2ZGQwNGQ4MWY3ZmVhMzFiMGEzYmZjZjA5ODk5ODJjZCZjdD1z/F73KLZL9eAfDcDQFAt/giphy.gif" width="250px" align="right"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc0NTE1ODE2ZGQwNGQ4MWY3ZmVhMzFiMGEzYmZjZjA5ODk5ODJjZCZjdD1z/F73KLZL9eAfDcDQFAt/giphy.gif" width="250px" align="right"/>  
 
 ## Hi, I'm Viktoriya Novikova 👋
 
