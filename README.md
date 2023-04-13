@@ -41,5 +41,5 @@ I am a front-end developer from Minsk, Belarus.
 
 ### 📊 Github Stats
 
-[![Vikuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikuli&show_icons=true&hide_rank=true&count_private=true&theme=transparent&border_color=69219d50&title_color=69219d&text_color=blue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikuli&layout=compact&theme=transparent&border_color=69219d50&title_color=69219d)](https://github.com/anuraghazra/github-readme-stats)
+[![Vikuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikuli&show_icons=true&hide_rank=true&count_private=true&theme=transparent&border_color=69219d50&icon_color=69219d&title_color=69219d&text_color=black)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikuli&layout=compact&theme=transparent&border_color=69219d50&title_color=69219d&text_color=black)](https://github.com/anuraghazra/github-readme-stats)
