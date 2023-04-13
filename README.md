@@ -9,11 +9,10 @@
 
 I am a front-end developer from Minsk, Belarus.
 
-### About me 
-- Develop websites and web applications using JavaScript / TypeScript and the Angular framework.
-
- I develop websites and web applications using JavaScript / TypeScript and the Angular framework.  
-In my free time I read technical articles and improve my development skills.
+### 🧐 About me
+- 💻 I create websites and web applications using JavaScript / TypeScript and the Angular framework.
+- ⚡ In my free time I read technical articles and improve my development skills.
+- 👩‍💻 Most of my projects are available on [Github](https://github.com/vikuli)
 
 ---
 
