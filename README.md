@@ -18,6 +18,8 @@
 I am a front-end developer from Minsk, Belarus. I develop websites and web applications using JavaScript / TypeScript and the Angular framework.  
 In my free time I read technical articles and improve my development skills.
 
+---
+
 ### 🛠️ Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular icon" title="Angular" height="30px"/>&nbsp;
@@ -27,10 +29,10 @@ In my free time I read technical articles and improve my development skills.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack icon" title="Webpack" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript icon" title="TypeScript" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript icon" title="JavaScript" height="30px"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL icon" title="GraphQL" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 icon" title="HTML5" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" title="CSS3" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS icon" title="SASS/SCSS" height="30px"/>&nbsp;
+<img src="https://cdn.cdnlogo.com/logos/b/14/bem.svg" alt="BEM icon" title="BEM" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs icon" title="NodeJS" height="30px"/>&nbsp;
