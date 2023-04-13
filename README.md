@@ -9,7 +9,7 @@
 
 I am a front-end developer from Minsk, Belarus.
 
-### 🧐 About me
+### 🧐 About Me :
 - 💻 I create websites and web applications using JavaScript / TypeScript and the Angular framework.
 - ⚡ In my free time I read technical articles and improve my development skills.
 - 👩‍💻 Most of my projects are available on [Github](https://github.com/vikuli)
@@ -36,3 +36,9 @@ I am a front-end developer from Minsk, Belarus.
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode icon" title="VSCode" height="30px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma icon" title="Figma" height="30px"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop icon" title="Adobe Photoshop" height="30px"/>&nbsp;
+
+---
+
+### 📊 Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikuli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
